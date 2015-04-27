@@ -1,0 +1,18 @@
+{
+    "name": "oshry/reflection",
+    "description": "php reflection and unit test",
+    "require": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oshry\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oshry",
+            "email": "oshrylevy@gmail.com"
+        }
+    ]
+}
